@@ -1,0 +1,63 @@
+# Build output
+bin/
+obj/
+Build/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+
+# Backup folder (do not commit without asking)
+Backup/
+
+# Compiled binaries
+*.dll
+*.pdb
+
+# Library dependencies
+Lib/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+
+# Decompiled game code (never commit)
+Decompiled code/
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Backup files
+*.bak
+
+# Misc
+nul
+*.zip
+*.aup3
+analysis_report.txt
