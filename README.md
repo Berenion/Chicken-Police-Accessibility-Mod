@@ -94,6 +94,18 @@ A comprehensive screen reader accessibility mod for **Chicken Police: Paint it R
 | Confirm selection | Enter / Space | A button |
 | Go back / Cancel | Escape | B button |
 
+### Game Hotkeys
+
+| Action | Key |
+|--------|-----|
+| Advance dialogue | Space |
+| Skip dialogue | Enter |
+| Skip cutscene | Space / Escape |
+| Back / close / skip | Escape |
+| Open inventory | I |
+| Open map | M |
+| Open notebook | N |
+
 ### World Object Navigation (Scene Exploration)
 
 | Action | Keyboard | Controller |
